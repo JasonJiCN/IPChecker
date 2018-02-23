@@ -1,3 +1,4 @@
+#coding=utf8
 from flask import Flask
 from datetime import datetime
 from flask import current_app
