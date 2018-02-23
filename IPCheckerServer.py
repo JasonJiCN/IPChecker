@@ -22,4 +22,4 @@ def update(ip):
     return 'ok'
 
 if __name__ == '__main__':
-    app.run(port=ServerPort)
+    app.run(host='0.0.0.0',port=ServerPort)
